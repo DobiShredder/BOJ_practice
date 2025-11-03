@@ -1,5 +1,7 @@
-# BJOJ_practice
+# BOJ_practice
 Baekjoon Online Judge Practice
+
+Classification: Solving step by step
 
 ### 1. IO and arithmetic operations
 
